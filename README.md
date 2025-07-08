@@ -37,8 +37,10 @@ The frontend is built using **Tkinter** to make it user-friendly, with options f
    ```bash
    git clone https://github.com/samhitaprakash/new-ann-project-dental.git
    cd new-ann-project-dental
-pip install -r requirements.txt
-python ann_gui.py
+   pip install -r requirements.txt
+   python ann_gui.py
+
+
 
  Sample Output
 Model achieved high test accuracy and strong generalization, making it suitable for educational use and beginner-level ML experimentation.
